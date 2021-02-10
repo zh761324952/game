@@ -1,0 +1,21 @@
+{
+    "name": "zhanchmini/login",
+    "description": "login minimum",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChangHai Zhan",
+            "email": "761324952@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "zhanchmini\\login\\": "src/"
+        }
+    }
+}
