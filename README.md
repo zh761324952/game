@@ -1,2 +1,2 @@
-# game
-game wokerman
+# login
+login minimum
